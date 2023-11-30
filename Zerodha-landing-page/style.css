@@ -1,0 +1,11 @@
+*{margin: 0; padding:0; box-sizing: border-box; font-family:sans-serif;}
+.nav{height:7.5vh; width:100vw; border-bottom: 1px solid rgb(224, 224, 224); position: relative;display: flex; align-items: center;flex-direction: row;}
+.lis{display: flex; justify-content: center; flex-direction: row; list-style: none; position: absolute; right:400px; }
+.lis li{margin-right: 25px; font-size:medium;  color: grey;}
+#landing{height:50vh; width:auto; margin-top: 85px; margin-bottom: 30px;}
+.nav #navlogo{height:18px; width:auto; position: absolute;
+left:400px;}
+.rest{display:flex ; justify-content: center;align-items: center; flex-direction: column;}
+h1{margin-bottom: 30px; font-size: 48px;}
+p{margin-bottom: 45px; font-size: 26px;}
+button{background-color: rgb(27, 134, 201); color: white; height:40px; width:140px; font-size: 18px;}
